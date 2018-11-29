@@ -5,7 +5,6 @@ Simple script that sends a query to arXiv using its API and sends an email to a 
 results from the query.
 
 -------
-## NOTE
+##### NOTE: Only working for Python3.x 
 -------
 
-Only working for Python3.x
